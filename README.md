@@ -1,6 +1,6 @@
 <br>
-<h1 align="center">Hi, I'm ilkay</h1>
-<h3 align="center">Self-learning software engineer</h3>
+<h1 align="center">Hi, I'm Cenk</h1>
+<h3 align="center">Self-learning Computer Engineer</h3>
 <br>
 
 <div align="center">
