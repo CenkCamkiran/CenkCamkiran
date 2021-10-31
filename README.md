@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">Hi, I'm Cenk</h1>
-<h3 align="center">Self-learning Computer Engineer</h3>Cancel changes
+<h3 align="center">Self-learning Computer Engineer</h3>
 <div align="center"><img src="https://giphy.com/embed/3oAt2dA6LxMkRrGc0g" width="480" height="468" frameBorder="0"  /> </div>
 <br>
 
