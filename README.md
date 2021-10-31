@@ -1,18 +1,18 @@
 <br>
 <h1 align="center">Hi, I'm Cenk</h1>
 <h3 align="center">Self-learning Computer Engineer</h3>Cancel changes
-<div align="center"><img src="https://giphy.com/embed/3oAt2dA6LxMkRrGc0g" width="280" height="230"  /> </div>
+<div align="center"><iframe src="https://giphy.com/embed/3oAt2dA6LxMkRrGc0g" width="480" height="468" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oAt2dA6LxMkRrGc0g">via GIPHY</a></p> </div>
 <br>
 
-- 🌱 I’m currently learning **React.js, .NET Core, Javascript etc.**
+- 🌱 I’m currently learning **React and DevOps CI/CD**
 
-- 📝 I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) 
+<!-- - 📝 I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com)  -->
 
-- 📝 My personal page [https://cengizcmataraci.me](https://cengizcmataraci.me)
+<!-- 📝 My personal page [https://cengizcmataraci.me](https://cengizcmataraci.me) -->
 
-- 💬 Ask me about **Javascript, CSS and Linux.**
+- 💬 Ask me about **Javascript, TypeScript, Golang and Linux.**
 
-- 📫 How to reach me **cengizcmataraci@gmail.com**
+- 📫 How to reach me **cenkcamkiran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,10 +62,10 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CenkCamkiran&show_icons=true&theme=radical&count_private=true&langs_count=10" />
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CenkCamkiran&show_icons=true&theme=radical&count_private=true&langs_count=10" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
