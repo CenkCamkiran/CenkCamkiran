@@ -1,7 +1,7 @@
 <br>
 <h1 align="center">Hi, I'm Cenk</h1>
 <h3 align="center">Self-learning Computer Engineer</h3>Cancel changes
-<div align="center"><iframe src="https://giphy.com/embed/3oAt2dA6LxMkRrGc0g" width="480" height="468" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oAt2dA6LxMkRrGc0g">via GIPHY</a></p> </div>
+<div align="center"><img src="https://giphy.com/embed/3oAt2dA6LxMkRrGc0g" width="480" height="468" frameBorder="0"  /> </div>
 <br>
 
 - 🌱 I’m currently learning **React and DevOps CI/CD**
