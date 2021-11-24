@@ -4,7 +4,7 @@
 <div align="center"><img src="https://i.imgflip.com/3o4xr2.jpg" width="480" height="468" frameBorder="0"  /> </div>
 <br>
 
-- 🌱 I’m currently learning **React and DevOps CI/CD**
+- 🌱 I’m currently learning **Java and CI/CD**
 
 <!-- - 📝 I regularly write articles on [My Medium Page](https://cenk.medium.com)  -->
 
@@ -31,19 +31,19 @@
 <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="googlecloud" width="30" height="30"/> </a> 
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> 
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-line-wordmark.svg" alt="tomcat" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> 
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/> </a> 
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg" alt="karma" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain-wordmark.svg" alt="jasmine" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> 
+
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="googlecloud" width="30" height="30"/> </a> 
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="30" height="30"/> </a> 
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-line-wordmark.svg" alt="tomcat" width="30" height="30"/> </a> 
 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
 <a href="https://www.microsoft.com/tr-tr/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="30" height="30"/> </a>
@@ -62,14 +62,14 @@
 <a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="30" height="30"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
-<a href="https://www.jetbrains.com/ruby/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" alt="rubymine" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain-wordmark.svg" alt="filezilla" width="30" height="30"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="30" height="30"/> </a> 
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="30" height="30"/> </a> 
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="30" height="30"/> </a> 
 
 </p>
-
 
 
 <div>
