@@ -10,7 +10,7 @@
 
 <!-- 📝 My personal page [https://cenk.me](https://cenk.me) -->
 
-- 💬 Ask me about **Javascript, Golang ,C# and Linux.**
+- 💬 Ask me about **Javascript, Golang, C# and Linux.**
 
 - 📫 How to reach me **cenkcamkiran@gmail.com**
 
