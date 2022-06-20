@@ -4,7 +4,7 @@
 <div align="center"><img src="https://i.imgflip.com/3o4xr2.jpg" width="480" height="468" frameBorder="0"  /> </div>
 <br>
 
-- 🌱 I’m currently learning **C# and .NET CORE 6.0*
+- 🌱 I’m currently learning **C# and .NET CORE 6.0**
 
 <!-- - 📝 I regularly write articles on [My Medium Page](https://cenk.medium.com)  -->
 
