@@ -57,7 +57,7 @@
 <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-line-wordmark.svg" alt="tomcat" width="60" height="100"/> </a>
 <a href="https://konghq.com/products/api-gateway-platform" target="_blank"> <img src="https://www.vectorlogo.zone/logos/konghq/konghq-ar21.svg" alt="kong" width="150" height="100"/> </a>
 <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" alt="virtualbox" width="60" height="100"/> </a>  
-<a href="https://www.vaultproject.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg" alt="vault" width="150" height="100"/> </a>
+<a href="https://www.vaultproject.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg" alt="vault" width="200" height="100"/> </a>
 
 <!-- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="30" height="30"/> </a>  -->
 
@@ -86,4 +86,4 @@
   <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" alt="cenkcamkiran" />-->
 </div>
 
-Profile updated at 20.06.2022
+Profile updated at 25.10.2022
