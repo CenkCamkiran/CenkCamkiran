@@ -41,10 +41,10 @@
 <a href="https://www.microsoft.com/tr-tr/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="60" height="100"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="100"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="100"/> </a>
-<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" width="60" height="50"/> </a>
-<a href="https://www.elastic.co/kibana/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="90" height="60"/> </a>
-<a href="https://www.elastic.co/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" width="90" height="60"/> </a>
+<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" width="110" height="100"/> </a>
 <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="elasticsearch" width="60" height="100"/> </a>
+<a href="https://www.elastic.co/kibana/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="130" height="90"/> </a>
+<a href="https://www.elastic.co/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" width="130" height="90"/> </a>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="100"/> </a>
 <a href="https://www.centos.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original-wordmark.svg" alt="centos" width="60" height="100"/> </a>
