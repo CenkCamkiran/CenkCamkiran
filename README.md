@@ -4,7 +4,8 @@
 <div align="center"><img src="https://i.imgflip.com/3o4xr2.jpg" width="480" height="468" frameBorder="0"  /> </div>
 <br>
 
-- 🌱 I’m currently learning **.NET Core 6, ElasticSearch, Microservices and Kubernetes**
+<!-- ElasticSearch--->
+- 🌱 I’m currently learning **.NET Core 6, AWS, Microservices and Kubernetes**
 
 <!-- - 📝 I regularly write articles on [My Medium Page](https://cenk.medium.com)  -->
 
@@ -55,7 +56,7 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 <a href="https://www.nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> </a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="googlecloud" width="50" height="50"/> </a>
-
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="50" height="50"/> </a>
 <!-- <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-line-wordmark.svg" alt="tomcat" width="50" height="50"/> </a> -->
 
 <a href="https://konghq.com/products/api-gateway-platform" target="_blank"> <img src="https://www.vectorlogo.zone/logos/konghq/konghq-ar21.svg" alt="kong" width="50" height="50"/> </a>
@@ -89,4 +90,4 @@
   <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" alt="cenkcamkiran" />-->
 </div>
 
-Profile updated at 08.01.2023 21:49
+Profile updated at 27.01.2023 21:31
