@@ -5,7 +5,7 @@
 <br>
 
 <!-- ElasticSearch--->
-- 🌱 I’m currently learning **.NET Core 6, AWS, Microservices and Kubernetes**
+- 🌱 I’m currently learning **.NET Core 6, AWS, Microservices, Kubernetes and CQRS-Event Sourcing Design Patterns**
 
 <!-- - 📝 I regularly write articles on [My Medium Page](https://cenk.medium.com)  -->
 
@@ -90,4 +90,4 @@
   <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" alt="cenkcamkiran" />-->
 </div>
 
-Profile updated at 27.01.2023 21:36
+Profile updated at 28.01.2023 18:48
