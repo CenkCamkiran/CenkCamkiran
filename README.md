@@ -5,7 +5,7 @@
 <br>
 
 <!-- ElasticSearch--->
-- 🌱 I’m currently learning **.NET Core 6, AWS, Microservices, Kubernetes and CQRS-Event Sourcing Design Patterns**
+- 🌱 I’m currently learning **Java, Design Patterns and Microservices**
 
 <!-- - 📝 I regularly write articles on [My Medium Page](https://cenk.medium.com)  -->
 
