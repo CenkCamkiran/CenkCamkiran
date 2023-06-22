@@ -86,9 +86,5 @@
 
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=CenkCamkiran&show_icons=true&theme=radical&count_private=true&langs_count=10" alt="cenkcamkiran" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" alt="cenkcamkiran" width="50%"/></p>
-
-  <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" alt="cenkcamkiran" />-->
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&layout=compact&langs_count=10" alt="cenkcamkiran" width="50%"/></p>
 </div>
-
-Profile updated at 22.06.2023 22:45
