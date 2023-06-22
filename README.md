@@ -5,7 +5,7 @@
 <br>
 
 <!-- ElasticSearch--->
-- 🌱 I’m currently learning **Java, Design Patterns and Microservices**
+- 🌱 I’m currently learning **Design Patterns and Microservices**. I am also developing **Chat Application**.
 
 <!-- - 📝 I regularly write articles on [My Medium Page](https://cenk.medium.com)  -->
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, C#, ElasticSearch, RabbitMQ, Kubernetes, Docker and Linux.**
 
-- 📫 How to reach me **cenkcamkiran@gmail.com**
+- 📫 How to reach me **<cenkcamkiran@gmail.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -90,4 +90,4 @@
   <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" alt="cenkcamkiran" />-->
 </div>
 
-Profile updated at 28.01.2023 18:48
+Profile updated at 22.06.2023 22:45
