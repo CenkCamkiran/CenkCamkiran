@@ -85,6 +85,5 @@
 </p>
 
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=CenkCamkiran&show_icons=true&theme=radical&count_private=true&langs_count=10" alt="cenkcamkiran" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&layout=compact&langs_count=10&theme=radical" alt="cenkcamkiran" width="50%"/></p>
-
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=CenkCamkiran&show_icons=true&theme=radical&count_private=true&langs_count=10" alt="cenkcamkiran" width="50%"/> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenkCamkiran&layout=compact&langs_count=10&theme=radical" alt="cenkcamkiran" width="50%"/></p>
 </div>
