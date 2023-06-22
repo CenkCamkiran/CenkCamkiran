@@ -45,6 +45,7 @@
 <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="elasticsearch" width="50" height="50"/> </a>
 <a href="https://www.elastic.co/kibana/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="100" height="50"/> </a>
 <a href="https://www.elastic.co/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" width="100" height="50"/> </a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> <img src="https://vectorwiki.com/images/vynW5__sonarqube.svg" alt="sonarqube" width="50" height="50"/> </a>
 
 <!-- <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> -->
 
