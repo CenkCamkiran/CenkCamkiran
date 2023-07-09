@@ -4,12 +4,7 @@
 <div align="center"><img src="https://i.imgflip.com/3o4xr2.jpg" width="480" height="468" frameBorder="0"  /> </div>
 <br>
 
-<!-- ElasticSearch--->
 - 🌱 I’m currently learning **Design Patterns and Microservices**. I am also developing **Chat Application**.
-
-<!-- - 📝 I regularly write articles on [My Medium Page](https://cenk.medium.com)  -->
-
-<!-- 📝 My personal page [https://cenk.me](https://cenk.me) -->
 
 - 💬 Ask me about **Javascript, C#, ElasticSearch, RabbitMQ, Kubernetes, Docker and Linux.**
 
@@ -19,8 +14,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/cenk-camkiran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" /></a>
 <a href="https://stackoverflow.com/users/7038767/cenk-camk%c4%b1ran" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" width="50" height="50" /></a>
-<!-- <a href="https://instagram.com/cenk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cenk" height="30" width="30" /></a> -->
-<!-- <a href="https://medium.com/@cenk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cenk" height="30" width="40" /></a> -->
 <a href="https://discord.gg/3kGnYm6" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" width="50" height="50" />CenkCamkıran#9501</a>
 </p>
 <h3 align="left">Technologies:</h3>
