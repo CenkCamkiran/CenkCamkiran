@@ -4,7 +4,7 @@
 <div align="center"><img src="https://i.imgflip.com/3o4xr2.jpg" width="480" height="468" frameBorder="0"  /> </div>
 <br>
 
-- 🌱 I’m currently learning **Design Patterns and Microservices**. I am also developing **Chat Application**.
+- 🌱 I’m currently learning **Design Patterns and Microservices**.
 
 - 💬 Ask me about **Javascript, C#, ElasticSearch, RabbitMQ, Kubernetes, Docker and Linux.**
 
@@ -19,9 +19,7 @@
 <h3 align="left">Technologies:</h3>
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>
-<a href="https://learn.microsoft.com/tr-tr/dotnet/welcome" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="50" height="50"/> </a>
 <a href="https://learn.microsoft.com/tr-tr/dotnet/welcome" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="50" height="50"/> </a>
-<a href="https://www.java.com/tr/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
@@ -73,7 +71,6 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain-wordmark.svg" alt="filezilla" width="50" height="50"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="50" height="50"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="50" height="50"/> </a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="50" height="50"/> </a>
 
 </p>
 
